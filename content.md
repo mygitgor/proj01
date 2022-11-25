@@ -2,9 +2,8 @@
 ## header
 ## information block
 ## contact block
-email example@.com
-mobile +374 ....2124
-Gor Mkhitaryan
 mypywelcome@gmail.com
+mobile +374 44082124
+Gor Mkhitaryan
 ## images & statuses
 ## futer 
